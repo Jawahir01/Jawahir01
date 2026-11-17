@@ -1,102 +1,162 @@
 
-# Hi, I'm Jawahir 👋
 
-### Software Developer · MSc Cyber Security Technology Student
+<div align="center">
 
-Building practical software, exploring secure development, and learning
-how to make applications more reliable.
+# Hey there, I'm Jawahir 👋
 
-[![GitHub](https://img.shields.io/badge/GitHub-Jawahir01-181717?style=flat&logo=github)](https://github.com/Jawahir01)
-:::
+### DevSecOps & Full-Stack Developer | MSc Cyber Security Technology Student
 
-------------------------------------------------------------------------
+<p>
+  <a href="https://github.com/Jawahir01">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Building+secure+and+reliable+applications;Exploring+DevSecOps+and+cloud+security;Learning%2C+building%2C+and+growing+every+day" alt="Typing introduction" />
+  </a>
+</p>
 
-## About me
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Jawahir01&style=for-the-badge&color=blueviolet" alt="Profile views" />
+  <a href="https://github.com/Jawahir01?tab=followers">
+    <img src="https://img.shields.io/github/followers/Jawahir01?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers" />
+  </a>
+</p>
 
-I'm a Computer Science graduate with a background in Web Application
-Development and a growing focus on the relationship between software
-engineering and cybersecurity.
+</div>
 
-I'm currently studying **MSc Cyber Security Technology**. I enjoy
-building backend applications, working with databases and APIs, and
-exploring how security can be considered throughout the software
-development process.
+---
 
-Before moving into technology, I spent five years teaching English. That
-experience strengthened my communication, patience and problem-solving
-skills --- qualities I bring to learning, collaboration and development.
+## 🧭 About me
 
-## Technologies & tools
+I'm a developer with a Computer Science background and a Level 5 Diploma in Full Stack Software Development. I'm currently studying **MSc Cyber Security Technology**, developing my knowledge of security while continuing to build practical software development skills.
 
-**Languages**\
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+My main interests are where **software engineering and cybersecurity meet**: building backend applications, developing APIs, and making systems more secure, reliable, and maintainable.
 
-**Backend & databases**\
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+Before moving into technology, I spent five years teaching English. That experience strengthened my communication, adaptability, organisation, and ability to explain ideas clearly.
 
-**Tools & interests**\
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+- 🎓 Currently studying **MSc Cyber Security Technology**
+- 🔐 Interested in **DevSecOps, application security, and secure software development**
+- 🧰 Building with **Python, Flask, FastAPI, Django, and PostgreSQL**
+- 🚀 Exploring **Docker, CI/CD, cloud engineering, Go, and Kubernetes**
+- 🧪 Learning through practical labs and challenges on **TryHackMe** - **PortSwigger** - **APISec** - **nextwork.ai**
+- 🤝 Always happy to connect, collaborate, and learn from others
 
-My current areas of interest include **backend engineering, API
-development, application security, secure coding, DevSecOps and cloud
-technologies**.
+---
 
-## Featured projects
+## 🛡️ Cybersecurity & DevSecOps
 
-### [SecureVault](https://github.com/Jawahir01/SecureVault)
+I'm particularly interested in bringing security into the development process rather than treating it as an afterthought.
 
-A backend secrets-management project built with **FastAPI** and
-**PostgreSQL**. It has been a practical way to explore authentication,
-encryption, database migrations, testing and security-minded backend
-development.
+**Areas I'm developing:**
+- Secure coding and the OWASP Top 10
+- Authentication, authorisation, and input validation
+- CI/CD pipeline security and GitHub Actions
+- Containerisation and container security
+- Infrastructure as Code (IaC) security
+- Cloud security fundamentals
+- Foundational AI/LLM threat modelling and secure AI deployment
 
-### [VogueNest](https://github.com/Jawahir01/VogueNest)
+**TryHackMe learning**
+- DevSecOps Learning Path — completed
+- Junior Penetration Tester Path — completed
+- Web Fundamentals Path — completed
+- Pre-Security Path — completed
+- Security Engineer Path — in progress
+- AI Security Path — in progress
 
-A **Django full-stack e-commerce application**, bringing together
-backend functionality, database integration and the features needed for
-an online shopping experience.
+---
 
-### [Sparkling Minds Kids Club](https://github.com/Jawahir01/Sparkling-Minds-Kids-Club)
+## 🧰 Tech stack
 
-A web application project using **Python and MongoDB Atlas**, giving me
-practical experience with a document-oriented database.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,flask,django,fastapi,php,html,css,postgres,mongodb,mysql,docker,git,github,githubactions,aws,linux&perline=8" alt="Technology icons" />
+</p>
 
-### [Bird Hunt](https://github.com/Jawahir01/Bird-Hunt)
+<p align="center">
+  <img src="https://img.shields.io/badge/Security-OWASP%20Top%2010-8A2BE2?style=flat-square" alt="OWASP Top 10" />
+  <img src="https://img.shields.io/badge/DevSecOps-CI%2FCD-167D9A?style=flat-square" alt="DevSecOps" />
+  <img src="https://img.shields.io/badge/Go-Learning-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go learning" />
+  <img src="https://img.shields.io/badge/Kubernetes-Learning-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes learning" />
+</p>
 
-An interactive browser game created as part of my web development
-learning journey.
+---
 
-*Explore my repositories for more projects and experiments:*
-[github.com/Jawahir01](https://github.com/Jawahir01).
+## 🌱 Featured projects
 
-## What I'm learning
+### 🔐 [SecureVault](https://github.com/Jawahir01/SecureVault)
+**Security-focused secrets management application**
 
--   Deepening my understanding of cybersecurity and application
-    security.
--   Improving my backend engineering and API development skills.
--   Exploring secure software development and DevSecOps practices.
--   Building my knowledge of Linux, Docker and cloud infrastructure.
+A Python-based project focused on secure credential storage and DevSecOps practices. It demonstrates Dockerised deployment, database migrations, automated testing, and CI/CD workflows.
 
-## Let's connect
+`Python` `Flask / FastAPI` `PostgreSQL` `Docker` `Alembic` `pytest` `GitHub Actions`
 
-I'm always happy to connect with people in software development and
-cybersecurity, learn from others, and collaborate on meaningful
-projects.
+### 🛍️ [VogueNest](https://github.com/Jawahir01/VogueNest)
+**Django full-stack e-commerce platform**
 
--   **GitHub:** [@Jawahir01](https://github.com/Jawahir01) **LinkedIn:** [Jawahir Abdul Bari](https://www.linkedin.com/in/jawahir-abdul-bari-5981041a9/)
+A fashion e-commerce application with a personalised shopping experience and AI-powered recommendations.
 
-------------------------------------------------------------------------
+`Python` `Django` `PostgreSQL` `Stripe API` `AWS` `HTML` `CSS` `JavaScript`
 
-**Always learning. Always building. Always improving.**
+### 🧩 [Sparkling Minds Kids Club](https://github.com/Jawahir01/Sparkling-Minds-Kids-Club)
+**Backend development with MongoDB**
+
+A functional website for a children's activity club, using database-backed CRUD operations and MongoDB Atlas.
+
+`Python` `MongoDB Atlas` `HTML` `CSS` `Bootstrap`
+
+### 🎮 [Bird Hunt](https://github.com/Jawahir01/Bird-Hunt)
+**Interactive browser game**
+
+A browser-based game featuring event handling, animation, and a scoring system.
+
+`HTML` `CSS` `JavaScript`
+
+### ✍️ [Journfolio](https://github.com/Jawahir01/Journfolio)
+**Responsive portfolio website**
+
+A portfolio website for a journalist, with a focus on accessible structure, responsive layout, and user experience.
+
+`HTML` `CSS`
+
+---
+
+## 📊 GitHub at a glance
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Jawahir01&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" alt="Jawahir's GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jawahir01&layout=compact&hide_border=true&theme=tokyonight" alt="Most used languages" />
+
+<img width="70%" src="https://streak-stats.demolab.com?user=Jawahir01&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+
+</div>
+
+---
+
+## 🏅 Learning & milestones
+
+- 🎓 MSc Cyber Security Technology — currently studying
+- 📘 Level 5 Diploma in Full Stack Software Development — Merit
+- 🧑‍💻 BSc Computer Science
+- 🏆 Code Institute Hackathons — two second-place finishes
+- 🔒 TryHackMe DevSecOps Learning Path — completed
+
+---
+
+## 🤝 Let's connect
+
+I'm always interested in connecting with people working in software development, cybersecurity, and DevSecOps.
+
+<p align="center">
+  <a href="https://github.com/Jawahir01">
+    <img src="https://img.shields.io/badge/GitHub-Jawahir01-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+  <!-- Add your LinkedIn profile URL below when ready. -->
+  <a href="mailto:jawahir.abdulbari@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+<div align="center">
+
+### “Keep learning. Keep building. Keep making things more secure.”
+
+</div>
 
